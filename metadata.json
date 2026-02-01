@@ -1,0 +1,7 @@
+{
+  "name": "Smart Parking Barrier - 모바일 주차 차단기",
+  "description": "소규모 빌라 및 상가 건물주를 위한 스마트폰 연동 주차 차단기 설치 서비스 랜딩 페이지입니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
